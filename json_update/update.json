@@ -2,8 +2,8 @@
   "Code": 0, //0代表请求成功，非0代表失败
   "Msg": "", //请求出错的信息
   "UpdateStatus": 1, //0代表不更新，1代表有版本更新，不需要强制升级，2代表有版本更新，需要强制升级
-  "VersionCode": 1,
-  "VersionName": "3.02",
+  "VersionCode": 3,
+  "VersionName": "3.0.2",
   "ModifyContent": "1.test line 1\r\n2.test line 2\r\n3.test line 3\r\n4.test line 4",
   "DownloadUrl": "https://github.com/exmlcxjv/SIMTech-Event-Qr-Update-Repo/raw/master/app-debug.apk"
 }
