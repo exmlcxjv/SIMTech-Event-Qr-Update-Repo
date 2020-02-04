@@ -3,7 +3,7 @@
   "Msg": "", //请求出错的信息
   "UpdateStatus": 1, //0代表不更新，1代表有版本更新，不需要强制升级，2代表有版本更新，需要强制升级
   "VersionCode": 3,
-  "VersionName": "3.03",
-  "ModifyContent": "1.Fixed Walkin QRcode issues\r\n2.Added Qrcode format 10",
+  "VersionName": "3.10",
+  "ModifyContent": "1.Bug fix\r\n2.Added travel alert",
   "DownloadUrl": "https://github.com/exmlcxjv/SIMTech-Event-Qr-Update-Repo/raw/master/app-debug.apk"
 }
